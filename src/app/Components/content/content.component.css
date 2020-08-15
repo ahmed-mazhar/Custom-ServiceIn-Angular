@@ -40,10 +40,7 @@
       font-size:50px ;
       line-height: 1.2;
      }
-     home 
-     { 
-      background-image:url('/assets/Images/intro-bg-sm.png');
-     }
+   
   }
   @media screen and (max-width:400px)
   {
@@ -52,8 +49,5 @@
       font-size:28px ;
       line-height: 1.1;
     }
-  .home 
-    {
-    background-image:url('/assets/Images/intro-bg-sm.png');
-    }
+  
   }
